@@ -1,0 +1,4 @@
+katet1 = int(input("Vvedit' katet :"))
+katet2 = int(input("Vvedit' katet :"))
+
+print("Hipotenuse = ", (((katet1**2)+(katet2**2)))**2)
